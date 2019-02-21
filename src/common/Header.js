@@ -7,7 +7,7 @@ export default class Header extends Component {
       <nav className="navbar">
         <ul>
           <li className="logo">
-            <img src="/icons/logo.svg" />
+            <img src="/images/logo.png" />
           </li>
           <li className="navbar-toggler">
             <div className="bars">
@@ -36,7 +36,9 @@ export default class Header extends Component {
             <a>Daftar</a>
           </li>
           <li>
-            <a className="btn btn-primary">Mulai Laporan</a>
+            <Link className="btn btn-primary btn-mulai" to="/add/report">
+              Mulai Laporan
+            </Link>
           </li>
         </ul>
       </nav>

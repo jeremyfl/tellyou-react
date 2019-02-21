@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ReportCards from "./report/ReportCards";
 import ReportCount from "./report/ReportCount";
+import { Link } from "react-router-dom";
 
 export default class home extends Component {
   render() {
@@ -18,7 +19,9 @@ export default class home extends Component {
               perekonomian di negara tersebtu tidaklah efisien
             </p>
             <div className="action">
-              <a className="btn btn-primary">Lapor sekarang</a>
+              <Link className="btn btn-primary btn-mulai" to="/add/report">
+                Lapor Sekarang
+              </Link>
               <a className="btn btn-transparant">Pelajari lebih lanjut</a>
             </div>
           </div>
@@ -148,7 +151,12 @@ export default class home extends Component {
               </div>
               <div className="title-small">Yuk Lapor Sekarang !</div>
               <div className="report-now-button">
-                <a className="btn btn-secondary">Lapor Sekarang</a>
+                <Link
+                  className="btn btn-secondary btn-mulai-secondary"
+                  to="/add/report"
+                >
+                  Lapor Sekarang
+                </Link>
               </div>
             </div>
           </div>
