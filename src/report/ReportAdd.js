@@ -84,13 +84,24 @@ export default class ReportAdd extends Component {
                 <img src="/images/how-to-report.svg" />
               </div>
               <div className="report-start-media-form">
-                <div>
+                <div
+                  style={{
+                    width: 50
+                  }}
+                >
                   <div className="report-start-title">Upload Foto</div>
-                  <div>input</div>
+                  <div>
+                    <input className="report-start-input" type="file" />
+                  </div>
                 </div>
                 <div>
                   <div className="report-start-title">Upload Video</div>
-                  <div>input</div>
+                  <div>
+                    <input
+                      className="report-start-input"
+                      placeholder="Masukan URL disini"
+                    />
+                  </div>
                 </div>
               </div>
             </div>

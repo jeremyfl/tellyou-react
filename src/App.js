@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Header from "./common/Header";
+import Modals from "./common/Modals";
 import Footer from "./common/Footer";
 
 import Home from "./home";
@@ -13,6 +14,7 @@ class App extends Component {
       <Router onUpdate={() => window.scrollTo(0, 0)}>
         <div className="App">
           <Header />
+          <Modals />
           <Route exact path="/" component={Home} />
           <Route path="/report/:id" component={ReportDetail} />
           <Route path="/add/report" component={ReportAdd} />

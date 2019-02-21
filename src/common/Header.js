@@ -30,11 +30,17 @@ export default class Header extends Component {
         </ul>
         <ul>
           <li className="signin">
-            <a>Masuk</a>
+            <a id="signin" data-toggle="modal" data-target="#signin-modal">
+              Masuk
+            </a>
           </li>
+
           <li className="signup">
-            <a>Daftar</a>
+            <a id="signup" href data-toggle="modal" data-target="#signup-modal">
+              Daftar
+            </a>
           </li>
+
           <li>
             <Link className="btn btn-primary btn-mulai" to="/add/report">
               Mulai Laporan
