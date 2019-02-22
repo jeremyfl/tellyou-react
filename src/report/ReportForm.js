@@ -5,7 +5,8 @@ import swal from "sweetalert";
 export default class ReportForm extends Component {
   submitPost(e) {
     e.preventDefault();
-    const image = document.querySelector('input[type="file"]').files[0];
+    const image = document.querySelector('input[id="image-1"]').files[0];
+    console.log(image);
 
     const form = new FormData();
     form.append("title", e.target.title.value);
@@ -115,6 +116,7 @@ export default class ReportForm extends Component {
                     <div className="report-start-title">Upload Foto</div>
                     <div>
                       <input
+                        id="image-1"
                         type="file"
                         name="image"
                         className="report-start-input"

@@ -36,7 +36,7 @@ export default class Modals extends Component {
     e.preventDefault();
     let url = window.location.href.split("localhost:3000/report/");
 
-    const image = document.querySelector('input[type="file"]').files[0];
+    const image = document.querySelector('input[id="image-2"]').files[0];
 
     const form = new FormData();
     form.append("description", e.target.description.value);
@@ -233,6 +233,7 @@ export default class Modals extends Component {
                     <div className="form-group">
                       <input
                         name="image"
+                        id="image-2"
                         type="file"
                         className="form-control"
                       />
