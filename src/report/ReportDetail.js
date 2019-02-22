@@ -51,7 +51,7 @@ export default class ReportDetail extends Component {
           <div className="container">
             <div className="details-1">
               <div className="details-image-wrapper">
-              <img src={axios.defaults.baseURL + "image/" + report.image} />
+                <img src={axios.defaults.baseURL + "image/" + report.image} />
               </div>
               <div className="details-container-mobile mobile">
                 <div className="details-container-mobile-title">
@@ -173,11 +173,13 @@ export default class ReportDetail extends Component {
                   dukunganmu akan mempercepat infrastruktur di perbaiki
                 </div>
                 <a
-                  className="details-support-this-button
-                  details-support-this-button-support"
+                  className="details-support-this-button details-support-this-button-support"
+                  data-toggle="modal"
+                  data-target="#support-modal"
                 >
                   Dukung laporan ini
                 </a>
+
                 <a
                   className="details-support-this-button
                   details-support-this-button-facebook"

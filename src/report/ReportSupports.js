@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Moment from "react-moment";
 import "moment/locale/id";
+import axios from "axios";
 
 export default class ReportSupports extends Component {
   render() {
@@ -35,7 +36,9 @@ export default class ReportSupports extends Component {
                   {support.description}
                 </div>
                 <div className="details-report-support-description-image-wrapper">
-                  <img src={support.image} />
+                  <img
+                    src={axios.defaults.baseURL + "image/" + support.image}
+                  />
                 </div>
               </div>
             </React.Fragment>

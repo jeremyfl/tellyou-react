@@ -3,8 +3,13 @@ import axios from "axios";
 import swal from "sweetalert";
 
 export default class Modals extends Component {
+  constructor(props) {
+    super(props);
+  }
+
   submitLogin(e) {
     e.preventDefault();
+
     const req = {
       email: e.target.email.value,
       password: e.target.password.value
@@ -12,14 +17,66 @@ export default class Modals extends Component {
 
     axios
       .post("user/login", req)
-      .then(response => {
-        swal("Berhasil!", response.data.message, "success");
-        setTimeout(window.location.reload(), 3000);
+      .then(() => {
+        window.location.reload();
       })
       .catch(error => {
-        swal("Maaf", error.response.data.message, "error");
+        swal({
+          title: "Maaf",
+          text: error.response.data.message,
+          icon: "error",
+          type: "error",
+          timer: 3000,
+          buttons: false
+        });
       });
   }
+
+  submitSupport(e) {
+    e.preventDefault();
+    let url = window.location.href.split("localhost:3000/report/");
+
+    const image = document.querySelector('input[type="file"]').files[0];
+
+    const form = new FormData();
+    form.append("description", e.target.description.value);
+    form.append("image", image);
+    form.append("report_id", url[1]);
+
+    const config = {
+      headers: {
+        "content-type": "multipart/form-data"
+      }
+    };
+
+    axios({
+      method: "post",
+      url: "/support",
+      data: form,
+      config: config
+    })
+      .then(response => {
+        swal({
+          title: "Terimakasih",
+          text: response.data.message,
+          icon: "success",
+          type: "success",
+          timer: 3000,
+          buttons: false
+        });
+      })
+      .catch(error => {
+        swal({
+          title: "Maaf",
+          text: error.response.data.message,
+          icon: "error",
+          type: "error",
+          timer: 3000,
+          buttons: false
+        });
+      });
+  }
+
   render() {
     return (
       <React.Fragment>
@@ -136,6 +193,65 @@ export default class Modals extends Component {
                   Register
                 </button>
               </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="modal fade"
+          id="support-modal"
+          tabIndex={-1}
+          role="dialog"
+          aria-labelledby="exampleModalLabel"
+          aria-hidden="true"
+        >
+          <div className="modal-dialog" role="document">
+            <div className="modal-content">
+              <div className="modal-header">
+                <h5 className="modal-title" id="exampleModalLabel">
+                  Dukung Laporan
+                </h5>
+                <button
+                  type="button"
+                  className="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">×</span>
+                </button>
+              </div>
+              <form onSubmit={this.submitSupport}>
+                <div className="modal-body">
+                  <div style={{ width: "95%" }}>
+                    <div className="form-group">
+                      <textarea
+                        name="description"
+                        className="form-control"
+                        placeholder="Ceritakan kisah yang anda ingin keluhkan"
+                        rows="8"
+                      />
+                    </div>
+                    <div className="form-group">
+                      <input
+                        name="image"
+                        type="file"
+                        className="form-control"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div className="modal-footer">
+                  <button
+                    type="button"
+                    className="btn btn-secondary"
+                    data-dismiss="modal"
+                  >
+                    Close
+                  </button>
+                  <button type="submit" className="btn btn-primary">
+                    Dukung
+                  </button>
+                </div>
+              </form>
             </div>
           </div>
         </div>

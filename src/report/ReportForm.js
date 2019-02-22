@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
+import swal from "sweetalert";
 
 export default class ReportForm extends Component {
   submitPost(e) {
@@ -26,7 +27,7 @@ export default class ReportForm extends Component {
       data: form,
       config: config
     }).then(response => {
-      alert("Terimakasih telah berpartisipasi!");
+      swal("Berhasil!", response.data.message, "success");
     });
   }
 
