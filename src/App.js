@@ -8,12 +8,54 @@ import Home from "./home";
 import ReportDetail from "./report/ReportDetail";
 import ReportAdd from "./report/ReportAdd";
 
+import axios from "axios";
 class App extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      isLogin: false,
+      user: []
+    };
+  }
+
+  componentDidMount() {
+    const self = this;
+
+    axios.get("user/check").then(response => {
+      if (response.data.isLogin) {
+        self.setState({
+          isLogin: true,
+          user: response.data.user
+        });
+      }
+    });
+  }
+
+  authCheck() {
+    if (this.state.isLogin) {
+      return true;
+    }
+
+    return false;
+  }
+
+  user() {
+    if (this.state.user) {
+      return this.state.user;
+    }
+
+    return [];
+  }
+
   render() {
+    const isLogin = this.authCheck();
+    const user = this.user();
+
     return (
       <Router onUpdate={() => window.scrollTo(0, 0)}>
         <div className="App">
-          <Header />
+          <Header isLogin={isLogin} user={user} />
           <Modals />
           <Route exact path="/" component={Home} />
           <Route path="/report/:id" component={ReportDetail} />

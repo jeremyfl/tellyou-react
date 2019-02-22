@@ -45,7 +45,7 @@ export default class componentName extends Component {
             return (
               <div className="card" key={index}>
                 <div className="image-container">
-                  <img src={report.image} />
+                  <img src={axios.defaults.baseURL + "image/" + report.image} />
                 </div>
                 <div className="content-container">
                   <div className="card-name">{report.location_name}</div>

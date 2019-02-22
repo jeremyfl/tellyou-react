@@ -4,13 +4,16 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "jquery": "^3.3.1",
     "moment-timezone": "^0.5.23",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-moment": "^0.8.4",
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5",
-    "react-youtube": "^7.9.0"
+    "react-youtube": "^7.9.0",
+    "sweetalert": "^2.1.2",
+    "uninstall": "0.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

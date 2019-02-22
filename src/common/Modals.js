@@ -1,6 +1,25 @@
 import React, { Component } from "react";
+import axios from "axios";
+import swal from "sweetalert";
 
 export default class Modals extends Component {
+  submitLogin(e) {
+    e.preventDefault();
+    const req = {
+      email: e.target.email.value,
+      password: e.target.password.value
+    };
+
+    axios
+      .post("user/login", req)
+      .then(response => {
+        swal("Berhasil!", response.data.message, "success");
+        setTimeout(window.location.reload(), 3000);
+      })
+      .catch(error => {
+        swal("Maaf", error.response.data.message, "error");
+      });
+  }
   render() {
     return (
       <React.Fragment>
@@ -27,30 +46,40 @@ export default class Modals extends Component {
                   <span aria-hidden="true">×</span>
                 </button>
               </div>
-              <div className="modal-body">
-                <form>
+              <form onSubmit={this.submitLogin}>
+                <div className="modal-body">
                   <div style={{ width: "95%" }}>
                     <div className="form-group">
-                      <input className="form-control" placeholder="Email" />
+                      <input
+                        name="email"
+                        type="email"
+                        className="form-control"
+                        placeholder="Email"
+                      />
                     </div>
                     <div className="form-group">
-                      <input className="form-control" placeholder="Password" />
+                      <input
+                        name="password"
+                        type="password"
+                        className="form-control"
+                        placeholder="Password"
+                      />
                     </div>
                   </div>
-                </form>
-              </div>
-              <div className="modal-footer">
-                <button
-                  type="button"
-                  className="btn btn-secondary"
-                  data-dismiss="modal"
-                >
-                  Close
-                </button>
-                <button type="button" className="btn btn-primary">
-                  Login
-                </button>
-              </div>
+                </div>
+                <div className="modal-footer">
+                  <button
+                    type="button"
+                    className="btn btn-secondary"
+                    data-dismiss="modal"
+                  >
+                    Close
+                  </button>
+                  <button type="submit" className="btn btn-primary">
+                    Login
+                  </button>
+                </div>
+              </form>
             </div>
           </div>
         </div>

@@ -51,7 +51,7 @@ export default class ReportDetail extends Component {
           <div className="container">
             <div className="details-1">
               <div className="details-image-wrapper">
-                <img src={report.image} />
+              <img src={axios.defaults.baseURL + "image/" + report.image} />
               </div>
               <div className="details-container-mobile mobile">
                 <div className="details-container-mobile-title">
