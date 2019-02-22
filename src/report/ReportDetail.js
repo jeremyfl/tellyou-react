@@ -144,7 +144,19 @@ export default class ReportDetail extends Component {
                     Lokasi: {report.location_name}
                   </div>
                   <div className="details-maps">
-                    <img src="/images/image-1.jpg" />
+                    <iframe
+                      allowFullScreen
+                      frameBorder={0}
+                      width="100%"
+                      height={400}
+                      src={
+                        "https://www.google.com/maps/embed/v1/place?key=AIzaSyDWO9OmRY2du3CS93Y2CMANMLAKA_anFS4&q=" +
+                        report.location_name +
+                        "&zoom=11"
+                      }
+                      style={{ marginTop: 30 }}
+                    />
+
                     <div className="btn btn-primary">Lihat Lokasi</div>
                   </div>
                 </div>
