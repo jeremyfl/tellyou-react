@@ -23,12 +23,12 @@ export default class Header extends Component {
           <li>
             <Link to="/">Home</Link>
           </li>
-          <li>
+          {/* <li>
             <a>Cari Laporan</a>
           </li>
           <li>
             <a>Rewards</a>
-          </li>
+          </li> */}
         </ul>
         <ul>
           {isLogin ? (
@@ -44,11 +44,11 @@ export default class Header extends Component {
                   Masuk
                 </a>
               </li>
-              <li className="signup">
+              {/* <li className="signup">
                 <a id="signup" data-toggle="modal" data-target="#signup-modal">
                   Daftar
                 </a>
-              </li>
+              </li> */}
             </React.Fragment>
           )}
           <li>
