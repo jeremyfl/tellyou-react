@@ -68,7 +68,7 @@ export default class home extends Component {
 
           <ReportCards />
 
-          <a className="btn btn-primary btn-block">Cari Laporan</a>
+          {/* <a className="btn btn-primary btn-block">Cari Laporan</a> */}
         </div>
         <div className="divider" />
 

@@ -44,11 +44,11 @@ export default class Header extends Component {
                   Masuk
                 </a>
               </li>
-              {/* <li className="signup">
+              <li className="signup">
                 <a id="signup" data-toggle="modal" data-target="#signup-modal">
                   Daftar
                 </a>
-              </li> */}
+              </li>
             </React.Fragment>
           )}
           <li>

@@ -28,7 +28,15 @@ export default class ReportForm extends Component {
       data: form,
       config: config
     }).then(response => {
-      swal("Berhasil!", response.data.message, "success");
+      swal({
+        title: "Terimakasih!",
+        text: "Kamu telah berpartisipasi untuk sekitar",
+        icon: "success"
+      }).then(willLogin => {
+        if (willLogin) {
+          window.location.reload();
+        }
+      });
     });
   }
 

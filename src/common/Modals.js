@@ -18,7 +18,15 @@ export default class Modals extends Component {
     axios
       .post("user/login", req)
       .then(() => {
-        window.location.reload();
+        swal({
+          title: "Login Berhasil",
+          text: "Ayo mulai berpartisipasi",
+          icon: "success"
+        }).then(willLogin => {
+          if (willLogin) {
+            window.location.reload();
+          }
+        });
       })
       .catch(error => {
         swal({
@@ -64,6 +72,32 @@ export default class Modals extends Component {
           timer: 3000,
           buttons: false
         });
+      })
+      .catch(error => {
+        swal({
+          title: "Maaf",
+          text: error.response.data.message,
+          icon: "error",
+          type: "error",
+          timer: 3000,
+          buttons: false
+        });
+      });
+  }
+
+  submitRegister(e) {
+    e.preventDefault();
+
+    const req = {
+      name: e.target.name.value,
+      email: e.target.email.value,
+      password: e.target.password.value
+    };
+
+    axios
+      .post("user", req)
+      .then(() => {
+        window.location.reload();
       })
       .catch(error => {
         swal({
@@ -163,36 +197,47 @@ export default class Modals extends Component {
                   <span aria-hidden="true">×</span>
                 </button>
               </div>
-              <div className="modal-body">
-                <form>
+              <form onSubmit={this.submitRegister}>
+                <div className="modal-body">
                   <div style={{ width: "95%" }}>
                     <div className="form-group">
                       <input
                         className="form-control"
+                        name="name"
                         placeholder="Nama Lengkap"
                       />
                     </div>
                     <div className="form-group">
-                      <input className="form-control" placeholder="Email" />
+                      <input
+                        name="email"
+                        className="form-control"
+                        placeholder="Email"
+                        type="email"
+                      />
                     </div>
                     <div className="form-group">
-                      <input className="form-control" placeholder="Password" />
+                      <input
+                        name="password"
+                        className="form-control"
+                        placeholder="Password"
+                        type="password"
+                      />
                     </div>
                   </div>
-                </form>
-              </div>
-              <div className="modal-footer">
-                <button
-                  type="button"
-                  className="btn btn-secondary"
-                  data-dismiss="modal"
-                >
-                  Close
-                </button>
-                <button type="button" className="btn btn-primary">
-                  Register
-                </button>
-              </div>
+                </div>
+                <div className="modal-footer">
+                  <button
+                    type="button"
+                    className="btn btn-secondary"
+                    data-dismiss="modal"
+                  >
+                    Close
+                  </button>
+                  <button type="submit" className="btn btn-primary">
+                    Register
+                  </button>
+                </div>
+              </form>
             </div>
           </div>
         </div>

@@ -150,7 +150,7 @@ export default class ReportDetail extends Component {
                       width="100%"
                       height={400}
                       src={
-                        "https://www.google.com/maps/embed/v1/place?key=AIzaSyDWO9OmRY2du3CS93Y2CMANMLAKA_anFS4&q=" +
+                        "https://www.google.com/maps/embed/v1/place?key=AIzaSyAr0EqIQx-VPyo6l90wf-sKwWrND7RBcXc&q=" +
                         report.location_name +
                         "&zoom=11"
                       }
@@ -162,7 +162,13 @@ export default class ReportDetail extends Component {
                 </div>
                 <div className="details-location-more">
                   <div className="details-title">Detail lokasi</div>
-                  <div className="details-location-more-container">
+                  <div
+                    className="details-location-more-container"
+                    style={{
+                      paddingTop: 15,
+                      paddingBottom: 15
+                    }}
+                  >
                     {report.location_description}
                   </div>
                 </div>
