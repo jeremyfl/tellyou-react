@@ -8,9 +8,11 @@ export default class Header extends Component {
     return (
       <nav className="navbar">
         <ul>
-          <li className="logo">
-            <img src="/images/logo.png" />
-          </li>
+          <Link to="/">
+            <li className="logo">
+              <img alt="logo" src="/images/logo.png" />
+            </li>
+          </Link>
           <li className="navbar-toggler">
             <div className="bars">
               <div />
@@ -23,12 +25,12 @@ export default class Header extends Component {
           <li>
             <Link to="/">Home</Link>
           </li>
-          {/* <li>
-            <a>Cari Laporan</a>
+          <li>
+            <a href="http://localhost:3334/explore">Cari Laporan</a>
           </li>
           <li>
-            <a>Rewards</a>
-          </li> */}
+            <a href="http://localhost:3334/poin">Rewards</a>
+          </li>
         </ul>
         <ul>
           {isLogin ? (

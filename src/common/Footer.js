@@ -4,7 +4,7 @@ export default class Footer extends Component {
   render() {
     return (
       <div className="footer">
-        Copyright © 2018 Nocturnal Created With ❤️ in Bandung.
+        Copyright © 2018 Nocturnal Created With <span>❤️</span> in Bandung.
       </div>
     );
   }

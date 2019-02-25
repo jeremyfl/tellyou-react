@@ -19,7 +19,7 @@ export default class ReportSupports extends Component {
               <div className="details-report-support-profile-date">
                 <div className="details-report-support-profile">
                   <div className="details-report-support-profile-picture">
-                    <img src={support.user.avatar} />
+                    <img alt="avatar" src={support.user.avatar} />
                   </div>
                   <div className="details-report-support-profile-name">
                     {support.user.name}
@@ -37,6 +37,7 @@ export default class ReportSupports extends Component {
                 </div>
                 <div className="details-report-support-description-image-wrapper">
                   <img
+                    alt="avatar"
                     src={axios.defaults.baseURL + "image/" + support.image}
                   />
                 </div>

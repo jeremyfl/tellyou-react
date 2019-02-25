@@ -27,7 +27,7 @@ export default class home extends Component {
           </div>
           <div className="image-wrapper">
             <div className="black" />
-            <img src="images/image-1.jpg" />
+            <img alet="bg" src="images/image-1.jpg" />
           </div>
         </div>
 

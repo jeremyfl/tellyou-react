@@ -13,7 +13,7 @@ nav {
     font-size: 16px;
     white-space: nowrap;
     text-decoration: none;
-    color: red;
+    color: #ff002b;
     position: relative; }
 @media(max-width: 1145px) {
   nav {
@@ -34,7 +34,7 @@ nav {
         width: 32px;
         height: 32px;
         border-radius: 5px;
-        border: 2px solid red;
+        border: 2px solid #ff002b;
         position: relative; }
 @media(min-width: 1145px) {
   nav ul:nth-child(1) .bars {
@@ -43,7 +43,7 @@ nav {
           position: absolute;
           width: 20px;
           height: 2px;
-          background-color: red; }
+          background-color: #ff002b; }
           nav ul:nth-child(1) .bars div:nth-child(1) {
             top: 7px;
             left: 6px; }
@@ -78,7 +78,7 @@ nav {
       display: block;
       height: 4.2px;
       width: 100%;
-      background-color: red; }
+      background-color: #ff002b; }
   nav .logo {
     width: 125px;
     margin-top: 10px; }
@@ -93,10 +93,10 @@ nav {
 
 .btn-primary {
   color: white;
-  background: red; }
+  background: #ff002b; }
 
 .btn-secondary {
-  color: red;
+  color: #ff002b;
   background: white; }
 
 .btn-transparant {
@@ -225,7 +225,7 @@ nav {
       position: absolute;
       height: 8px;
       width: 54px;
-      background-color: red; }
+      background-color: #ff002b; }
   .title .icon {
     width: 60px;
     margin-top: 6px;
@@ -292,403 +292,403 @@ nav {
       .card .content-container .bar .bar-percentages-1 {
         width: 1%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-2 {
         width: 2%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-3 {
         width: 3%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-4 {
         width: 4%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-5 {
         width: 5%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-6 {
         width: 6%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-7 {
         width: 7%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-8 {
         width: 8%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-9 {
         width: 9%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-10 {
         width: 10%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-11 {
         width: 11%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-12 {
         width: 12%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-13 {
         width: 13%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-14 {
         width: 14%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-15 {
         width: 15%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-16 {
         width: 16%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-17 {
         width: 17%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-18 {
         width: 18%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-19 {
         width: 19%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-20 {
         width: 20%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-21 {
         width: 21%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-22 {
         width: 22%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-23 {
         width: 23%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-24 {
         width: 24%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-25 {
         width: 25%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-26 {
         width: 26%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-27 {
         width: 27%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-28 {
         width: 28%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-29 {
         width: 29%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-30 {
         width: 30%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-31 {
         width: 31%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-32 {
         width: 32%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-33 {
         width: 33%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-34 {
         width: 34%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-35 {
         width: 35%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-36 {
         width: 36%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-37 {
         width: 37%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-38 {
         width: 38%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-39 {
         width: 39%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-40 {
         width: 40%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-41 {
         width: 41%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-42 {
         width: 42%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-43 {
         width: 43%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-44 {
         width: 44%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-45 {
         width: 45%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-46 {
         width: 46%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-47 {
         width: 47%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-48 {
         width: 48%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-49 {
         width: 49%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-50 {
         width: 50%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-51 {
         width: 51%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-52 {
         width: 52%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-53 {
         width: 53%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-54 {
         width: 54%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-55 {
         width: 55%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-56 {
         width: 56%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-57 {
         width: 57%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-58 {
         width: 58%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-59 {
         width: 59%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-60 {
         width: 60%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-61 {
         width: 61%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-62 {
         width: 62%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-63 {
         width: 63%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-64 {
         width: 64%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-65 {
         width: 65%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-66 {
         width: 66%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-67 {
         width: 67%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-68 {
         width: 68%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-69 {
         width: 69%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-70 {
         width: 70%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-71 {
         width: 71%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-72 {
         width: 72%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-73 {
         width: 73%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-74 {
         width: 74%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-75 {
         width: 75%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-76 {
         width: 76%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-77 {
         width: 77%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-78 {
         width: 78%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-79 {
         width: 79%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-80 {
         width: 80%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-81 {
         width: 81%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-82 {
         width: 82%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-83 {
         width: 83%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-84 {
         width: 84%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-85 {
         width: 85%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-86 {
         width: 86%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-87 {
         width: 87%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-88 {
         width: 88%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-89 {
         width: 89%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-90 {
         width: 90%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-91 {
         width: 91%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-92 {
         width: 92%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-93 {
         width: 93%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-94 {
         width: 94%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-95 {
         width: 95%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-96 {
         width: 96%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-97 {
         width: 97%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-98 {
         width: 98%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-99 {
         width: 99%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
       .card .content-container .bar .bar-percentages-100 {
         width: 100%;
         height: 100%;
-        background-color: red; }
+        background-color: #ff002b; }
     .card .content-container .card-footer {
       display: flex;
       justify-content: space-between;
@@ -705,7 +705,7 @@ nav {
           top: 1px;
           border-radius: 50%;
           position: absolute;
-          background-color: red; }
+          background-color: #ff002b; }
 @media(max-width: 600px) {
   .card .content-container .card-footer .supporter:before {
     display: none; } }
@@ -720,7 +720,7 @@ nav {
     font-size: 17px;
     padding: 10px 0;
     text-align: center;
-    background: red;
+    background: #ff002b;
     color: white; }
 @media(min-width: 600px) {
   .card .card-read-more {
@@ -742,12 +742,12 @@ nav {
       margin-right: 30px;
       min-width: 194px;
       height: 194px;
-      border: 1px solid red;
+      border: 1px solid #ff002b;
       border-radius: 5px;
       color: #999; }
 @media(min-width: 600px) {
   .report-current .boxes .box:nth-last-child(1) {
-    background-color: red;
+    background-color: #ff002b;
     color: white; } }
       .report-current .boxes .box .number {
         margin-right: 20px;
@@ -757,7 +757,7 @@ nav {
 @media(max-width: 600px) {
   .report-current .boxes .box .number {
     font-size: 24px;
-    color: red; } }
+    color: #ff002b; } }
       .report-current .boxes .box .text {
         text-align: center;
         margin-bottom: 20px; }
@@ -797,7 +797,7 @@ nav {
 .how-to {
   height: 1099px;
   position: relative;
-  background: red; }
+  background: #ff002b; }
   .how-to .how-to-bar {
     width: 2px;
     height: calc(174px * 3 + 20px * 2);
@@ -874,7 +874,7 @@ nav {
     .how-to .how-to-card .how-to-card-title {
       font-size: 32px;
       margin: 36px auto;
-      color: red; }
+      color: #ff002b; }
 @media(max-width: 600px) {
   .how-to .how-to-card .how-to-card-title {
     margin-top: 20px;
@@ -921,7 +921,7 @@ nav {
   font-size: 24px;
   margin-bottom: 10px;
   font-weight: bold;
-  color: red; }
+  color: #ff002b; }
 @media(max-width: 900px) {
   .report-start-title {
     font-size: 16px; } }
@@ -948,7 +948,7 @@ input.report-start-input, textarea.report-start-input {
     width: 24px;
     height: 24px;
     position: absolute;
-    background: red;
+    background: #ff002b;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -966,7 +966,7 @@ input.report-start-input, textarea.report-start-input {
     left: 0px;
     height: 100%;
     width: 2px;
-    background-color: red; }
+    background-color: #ff002b; }
 
 .report-start-description, .report-start-media, .report-start-location {
   display: flex; }
@@ -1093,7 +1093,7 @@ input.report-start-input, textarea.report-start-input {
 .report-progress {
   height: 300vh;
   width: 2px;
-  background-color: red;
+  background-color: #ff002b;
   position: absolute;
   left: 3%; }
   .report-progress .report-progress-description {
@@ -1105,7 +1105,7 @@ input.report-start-input, textarea.report-start-input {
         justify-content: center;
         align-items: center;
         font-size: 14px;
-        background: red;
+        background: #ff002b;
         color: white;
         left: -12px;
         height: 25px;
@@ -1128,7 +1128,7 @@ input.report-start-input, textarea.report-start-input {
   padding-bottom: 10px;
   border-radius: 9px;
   border: none;
-  background: red;
+  background: #ff002b;
   color: white;
   font-family: Helvetica; }
 @media(max-width: 900px) {
@@ -1152,7 +1152,7 @@ input.report-start-input, textarea.report-start-input {
     background-color: #cccccc; }
   .report-start-button-container .report-start-button-container-next {
     width: 60%;
-    background: red;
+    background: #ff002b;
     color: white;
     margin-left: 10%;
     box-shadow: 0 1px 10px 0 rgba(255, 0, 43, 0.6); }
@@ -1160,7 +1160,7 @@ input.report-start-input, textarea.report-start-input {
 .report-start-mobile-tab {
   box-sizing: border-box;
   height: 74px;
-  background-color: red;
+  background-color: #ff002b;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1193,7 +1193,7 @@ input.report-start-input, textarea.report-start-input {
     padding: 0; } }
 .details-title {
   font-size: 28px;
-  color: red;
+  color: #ff002b;
   margin-bottom: 14px;
   font-weight: bold; }
 
@@ -1205,7 +1205,7 @@ input.report-start-input, textarea.report-start-input {
   padding-top: 43px;
   padding-bottom: 57px;
   color: white;
-  background-color: red; }
+  background-color: #ff002b; }
 @media(max-width: 600px) {
   .details-main-title {
     display: none; } }
@@ -1256,7 +1256,7 @@ input.report-start-input, textarea.report-start-input {
   .details-reported-by .details-reported-by-text {
     margin-left: 20px; } }
     .details-reported-by .details-reported-by-text .details-reported-by-text-name {
-      color: red; }
+      color: #ff002b; }
 @media(max-width: 600px) {
   .details-reported-by .details-reported-by-text .details-reported-by-text-name {
     color: black;
@@ -1347,12 +1347,12 @@ input.report-start-input, textarea.report-start-input {
     width: 100%;
     height: 32px;
     position: relative;
-    border: 1px solid red;
+    border: 1px solid #ff002b;
     overflow: hidden;
     border-radius: 5px; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-1 {
       width: 1%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1360,7 +1360,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-2 {
       width: 2%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1368,7 +1368,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-3 {
       width: 3%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1376,7 +1376,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-4 {
       width: 4%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1384,7 +1384,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-5 {
       width: 5%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1392,7 +1392,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-6 {
       width: 6%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1400,7 +1400,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-7 {
       width: 7%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1408,7 +1408,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-8 {
       width: 8%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1416,7 +1416,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-9 {
       width: 9%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1424,7 +1424,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-10 {
       width: 10%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1432,7 +1432,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-11 {
       width: 11%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1440,7 +1440,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-12 {
       width: 12%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1448,7 +1448,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-13 {
       width: 13%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1456,7 +1456,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-14 {
       width: 14%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1464,7 +1464,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-15 {
       width: 15%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1472,7 +1472,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-16 {
       width: 16%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1480,7 +1480,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-17 {
       width: 17%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1488,7 +1488,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-18 {
       width: 18%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1496,7 +1496,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-19 {
       width: 19%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1504,7 +1504,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-20 {
       width: 20%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1512,7 +1512,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-21 {
       width: 21%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1520,7 +1520,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-22 {
       width: 22%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1528,7 +1528,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-23 {
       width: 23%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1536,7 +1536,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-24 {
       width: 24%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1544,7 +1544,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-25 {
       width: 25%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1552,7 +1552,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-26 {
       width: 26%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1560,7 +1560,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-27 {
       width: 27%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1568,7 +1568,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-28 {
       width: 28%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1576,7 +1576,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-29 {
       width: 29%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1584,7 +1584,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-30 {
       width: 30%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1592,7 +1592,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-31 {
       width: 31%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1600,7 +1600,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-32 {
       width: 32%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1608,7 +1608,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-33 {
       width: 33%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1616,7 +1616,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-34 {
       width: 34%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1624,7 +1624,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-35 {
       width: 35%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1632,7 +1632,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-36 {
       width: 36%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1640,7 +1640,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-37 {
       width: 37%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1648,7 +1648,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-38 {
       width: 38%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1656,7 +1656,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-39 {
       width: 39%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1664,7 +1664,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-40 {
       width: 40%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1672,7 +1672,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-41 {
       width: 41%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1680,7 +1680,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-42 {
       width: 42%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1688,7 +1688,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-43 {
       width: 43%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1696,7 +1696,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-44 {
       width: 44%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1704,7 +1704,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-45 {
       width: 45%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1712,7 +1712,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-46 {
       width: 46%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1720,7 +1720,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-47 {
       width: 47%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1728,7 +1728,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-48 {
       width: 48%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1736,7 +1736,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-49 {
       width: 49%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1744,7 +1744,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-50 {
       width: 50%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1752,7 +1752,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-51 {
       width: 51%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1760,7 +1760,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-52 {
       width: 52%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1768,7 +1768,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-53 {
       width: 53%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1776,7 +1776,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-54 {
       width: 54%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1784,7 +1784,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-55 {
       width: 55%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1792,7 +1792,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-56 {
       width: 56%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1800,7 +1800,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-57 {
       width: 57%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1808,7 +1808,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-58 {
       width: 58%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1816,7 +1816,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-59 {
       width: 59%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1824,7 +1824,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-60 {
       width: 60%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1832,7 +1832,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-61 {
       width: 61%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1840,7 +1840,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-62 {
       width: 62%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1848,7 +1848,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-63 {
       width: 63%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1856,7 +1856,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-64 {
       width: 64%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1864,7 +1864,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-65 {
       width: 65%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1872,7 +1872,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-66 {
       width: 66%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1880,7 +1880,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-67 {
       width: 67%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1888,7 +1888,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-68 {
       width: 68%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1896,7 +1896,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-69 {
       width: 69%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1904,7 +1904,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-70 {
       width: 70%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1912,7 +1912,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-71 {
       width: 71%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1920,7 +1920,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-72 {
       width: 72%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1928,7 +1928,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-73 {
       width: 73%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1936,7 +1936,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-74 {
       width: 74%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1944,7 +1944,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-75 {
       width: 75%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1952,7 +1952,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-76 {
       width: 76%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1960,7 +1960,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-77 {
       width: 77%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1968,7 +1968,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-78 {
       width: 78%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1976,7 +1976,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-79 {
       width: 79%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1984,7 +1984,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-80 {
       width: 80%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -1992,7 +1992,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-81 {
       width: 81%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2000,7 +2000,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-82 {
       width: 82%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2008,7 +2008,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-83 {
       width: 83%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2016,7 +2016,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-84 {
       width: 84%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2024,7 +2024,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-85 {
       width: 85%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2032,7 +2032,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-86 {
       width: 86%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2040,7 +2040,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-87 {
       width: 87%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2048,7 +2048,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-88 {
       width: 88%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2056,7 +2056,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-89 {
       width: 89%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2064,7 +2064,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-90 {
       width: 90%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2072,7 +2072,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-91 {
       width: 91%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2080,7 +2080,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-92 {
       width: 92%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2088,7 +2088,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-93 {
       width: 93%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2096,7 +2096,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-94 {
       width: 94%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2104,7 +2104,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-95 {
       width: 95%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2112,7 +2112,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-96 {
       width: 96%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2120,7 +2120,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-97 {
       width: 97%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2128,7 +2128,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-98 {
       width: 98%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2136,7 +2136,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-99 {
       width: 99%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2144,7 +2144,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-report-update .details-report-update-progress-bar .details-report-update-progress-bar-100 {
       width: 100%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2175,7 +2175,7 @@ input.report-start-input, textarea.report-start-input {
   text-align: center; }
 
 .details-support-this-button-support {
-  background: red; }
+  background: #ff002b; }
 
 .details-support-this-button-facebook {
   background: #4267b2; }
@@ -2186,7 +2186,7 @@ input.report-start-input, textarea.report-start-input {
   .details-container-mobile .details-container-mobile-title {
     font-size: 26px;
     font-weight: bold;
-    color: red; }
+    color: #ff002b; }
   .details-container-mobile .details-container-mobile-support {
     font-size: 14px;
     margin-top: 15px; }
@@ -2195,13 +2195,13 @@ input.report-start-input, textarea.report-start-input {
     width: 100%;
     height: 32px;
     position: relative;
-    border: 1px solid red;
+    border: 1px solid #ff002b;
     overflow: hidden;
     border-radius: 5px;
     height: 17px; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-1 {
       width: 1%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2209,7 +2209,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-2 {
       width: 2%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2217,7 +2217,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-3 {
       width: 3%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2225,7 +2225,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-4 {
       width: 4%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2233,7 +2233,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-5 {
       width: 5%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2241,7 +2241,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-6 {
       width: 6%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2249,7 +2249,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-7 {
       width: 7%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2257,7 +2257,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-8 {
       width: 8%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2265,7 +2265,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-9 {
       width: 9%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2273,7 +2273,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-10 {
       width: 10%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2281,7 +2281,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-11 {
       width: 11%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2289,7 +2289,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-12 {
       width: 12%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2297,7 +2297,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-13 {
       width: 13%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2305,7 +2305,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-14 {
       width: 14%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2313,7 +2313,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-15 {
       width: 15%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2321,7 +2321,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-16 {
       width: 16%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2329,7 +2329,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-17 {
       width: 17%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2337,7 +2337,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-18 {
       width: 18%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2345,7 +2345,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-19 {
       width: 19%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2353,7 +2353,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-20 {
       width: 20%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2361,7 +2361,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-21 {
       width: 21%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2369,7 +2369,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-22 {
       width: 22%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2377,7 +2377,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-23 {
       width: 23%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2385,7 +2385,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-24 {
       width: 24%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2393,7 +2393,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-25 {
       width: 25%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2401,7 +2401,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-26 {
       width: 26%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2409,7 +2409,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-27 {
       width: 27%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2417,7 +2417,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-28 {
       width: 28%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2425,7 +2425,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-29 {
       width: 29%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2433,7 +2433,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-30 {
       width: 30%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2441,7 +2441,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-31 {
       width: 31%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2449,7 +2449,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-32 {
       width: 32%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2457,7 +2457,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-33 {
       width: 33%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2465,7 +2465,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-34 {
       width: 34%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2473,7 +2473,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-35 {
       width: 35%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2481,7 +2481,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-36 {
       width: 36%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2489,7 +2489,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-37 {
       width: 37%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2497,7 +2497,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-38 {
       width: 38%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2505,7 +2505,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-39 {
       width: 39%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2513,7 +2513,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-40 {
       width: 40%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2521,7 +2521,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-41 {
       width: 41%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2529,7 +2529,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-42 {
       width: 42%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2537,7 +2537,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-43 {
       width: 43%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2545,7 +2545,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-44 {
       width: 44%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2553,7 +2553,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-45 {
       width: 45%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2561,7 +2561,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-46 {
       width: 46%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2569,7 +2569,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-47 {
       width: 47%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2577,7 +2577,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-48 {
       width: 48%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2585,7 +2585,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-49 {
       width: 49%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2593,7 +2593,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-50 {
       width: 50%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2601,7 +2601,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-51 {
       width: 51%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2609,7 +2609,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-52 {
       width: 52%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2617,7 +2617,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-53 {
       width: 53%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2625,7 +2625,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-54 {
       width: 54%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2633,7 +2633,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-55 {
       width: 55%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2641,7 +2641,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-56 {
       width: 56%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2649,7 +2649,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-57 {
       width: 57%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2657,7 +2657,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-58 {
       width: 58%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2665,7 +2665,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-59 {
       width: 59%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2673,7 +2673,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-60 {
       width: 60%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2681,7 +2681,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-61 {
       width: 61%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2689,7 +2689,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-62 {
       width: 62%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2697,7 +2697,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-63 {
       width: 63%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2705,7 +2705,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-64 {
       width: 64%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2713,7 +2713,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-65 {
       width: 65%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2721,7 +2721,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-66 {
       width: 66%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2729,7 +2729,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-67 {
       width: 67%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2737,7 +2737,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-68 {
       width: 68%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2745,7 +2745,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-69 {
       width: 69%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2753,7 +2753,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-70 {
       width: 70%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2761,7 +2761,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-71 {
       width: 71%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2769,7 +2769,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-72 {
       width: 72%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2777,7 +2777,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-73 {
       width: 73%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2785,7 +2785,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-74 {
       width: 74%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2793,7 +2793,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-75 {
       width: 75%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2801,7 +2801,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-76 {
       width: 76%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2809,7 +2809,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-77 {
       width: 77%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2817,7 +2817,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-78 {
       width: 78%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2825,7 +2825,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-79 {
       width: 79%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2833,7 +2833,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-80 {
       width: 80%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2841,7 +2841,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-81 {
       width: 81%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2849,7 +2849,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-82 {
       width: 82%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2857,7 +2857,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-83 {
       width: 83%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2865,7 +2865,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-84 {
       width: 84%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2873,7 +2873,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-85 {
       width: 85%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2881,7 +2881,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-86 {
       width: 86%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2889,7 +2889,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-87 {
       width: 87%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2897,7 +2897,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-88 {
       width: 88%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2905,7 +2905,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-89 {
       width: 89%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2913,7 +2913,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-90 {
       width: 90%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2921,7 +2921,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-91 {
       width: 91%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2929,7 +2929,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-92 {
       width: 92%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2937,7 +2937,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-93 {
       width: 93%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2945,7 +2945,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-94 {
       width: 94%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2953,7 +2953,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-95 {
       width: 95%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2961,7 +2961,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-96 {
       width: 96%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2969,7 +2969,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-97 {
       width: 97%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2977,7 +2977,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-98 {
       width: 98%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2985,7 +2985,7 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-99 {
       width: 99%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
@@ -2993,19 +2993,19 @@ input.report-start-input, textarea.report-start-input {
       z-index: 998; }
     .details-container-mobile .details-container-mobile-support-bar .details-container-mobile-support-bar-100 {
       width: 100%;
-      background: red;
+      background: #ff002b;
       position: absolute;
       left: 0px;
       top: 0px;
       height: 100%;
       z-index: 998; }
   .details-container-mobile .details-container-mobile-support-count {
-    color: red;
+    color: #ff002b;
     margin-top: 6px; }
 
 .description-tab {
   display: flex;
-  color: red;
+  color: #ff002b;
   font-weight: bold;
   height: 60px; }
   .description-tab div {
@@ -3025,7 +3025,7 @@ input.report-start-input, textarea.report-start-input {
       position: absolute;
       height: 5px;
       width: 40px;
-      background: red;
+      background: #ff002b;
       bottom: 0px;
       left: calc(50% - 20px); }
 
@@ -3151,7 +3151,7 @@ input.report-start-input, textarea.report-start-input {
   .modal.fade .modal-dialog {
     transition: transform 0.3s ease-out;
     transform: translate(0, -50px); }
-    @media (prefers-reduced-motion: reduce) {
+    @media (prefers-#ff002buced-motion: #ff002buce) {
       .modal.fade .modal-dialog {
         transition: none; } }
   .modal.show .modal-dialog {
@@ -3169,21 +3169,21 @@ input.report-start-input, textarea.report-start-input {
   .modal-dialog-scrollable .modal-body {
     overflow-y: auto; }
 
-.modal-dialog-centered {
+.modal-dialog-cente#ff002b {
   display: flex;
   align-items: center;
   min-height: calc(100% - 1rem); }
-  .modal-dialog-centered::before {
+  .modal-dialog-cente#ff002b::before {
     display: block;
     height: calc(100vh - 1rem);
     content: ""; }
-  .modal-dialog-centered.modal-dialog-scrollable {
+  .modal-dialog-cente#ff002b.modal-dialog-scrollable {
     flex-direction: column;
     justify-content: center;
     height: 100%; }
-    .modal-dialog-centered.modal-dialog-scrollable .modal-content {
+    .modal-dialog-cente#ff002b.modal-dialog-scrollable .modal-content {
       max-height: none; }
-    .modal-dialog-centered.modal-dialog-scrollable::before {
+    .modal-dialog-cente#ff002b.modal-dialog-scrollable::before {
       content: none; }
 
 .modal-content {
@@ -3264,9 +3264,9 @@ input.report-start-input, textarea.report-start-input {
     .modal-dialog-scrollable .modal-content {
       max-height: calc(100vh - 3.5rem); }
 
-  .modal-dialog-centered {
+  .modal-dialog-cente#ff002b {
     min-height: calc(100% - 3.5rem); }
-    .modal-dialog-centered::before {
+    .modal-dialog-cente#ff002b::before {
       height: calc(100vh - 3.5rem); }
 
   .modal-sm {
@@ -3292,7 +3292,7 @@ input.report-start-input, textarea.report-start-input {
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
-  @media (prefers-reduced-motion: reduce) {
+  @media (prefers-#ff002buced-motion: #ff002buce) {
     .form-control {
       transition: none; } }
   .form-control::-ms-expand {
